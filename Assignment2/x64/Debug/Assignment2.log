@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Assignment2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  LexicalAnalyzer.cpp
+C:\Users\suatc\source\repos\Assignment2\Assignment2\LexicalAnalyzer.cpp(475,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SyntaxAnalyzer.cpp
+  Token.cpp
+  Generating Code...
+  Assignment2.vcxproj -> C:\Users\suatc\source\repos\Assignment2\x64\Debug\SyntaxAnalyzer_Project.exe
